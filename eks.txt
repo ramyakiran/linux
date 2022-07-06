@@ -1,0 +1,1 @@
+Git flow and Github flow are a Branching Strategy
